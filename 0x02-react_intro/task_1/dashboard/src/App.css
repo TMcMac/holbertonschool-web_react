@@ -1,11 +1,21 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
   height: 20vmin;
   pointer-events: none;
   margin: 3vmin;
+}
+
+.App-body {
+  margin: 3vmin;
+}
+
+.Body-p {
+  margin: 3vmin;
+  padding-top: 2vmin;
+  padding-bottom: 50vmin;
 }
 
 /* @media (prefers-reduced-motion: no-preference) {
@@ -23,21 +33,10 @@
   font-size: calc(5px + 1vmin);
   color: red;
 }
-
-.App-body {
-  margin: 3vmin;
-}
-
-.Body-p {
-  margin: 3vmin;
-  padding-top: 2vmin;
-  padding-bottom: 50vmin;
-}
-
 .HR-red {
   height: 2px;
   background-color: red;
-  margin: 0 15px;
+  margin: 0 15px 0 15px;
 }
 
 .App-link {
@@ -56,4 +55,4 @@
   to {
     transform: rotate(360deg);
   }
-} */
+}*/
