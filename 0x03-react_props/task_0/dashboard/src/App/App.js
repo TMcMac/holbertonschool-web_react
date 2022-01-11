@@ -9,9 +9,11 @@ function App() {
   return (
     <>
       <Notifications />
-      <Header />
-      <Login />
-      <Footer />
+      <div className ='App'>
+        <Header />
+        <Login />
+        <Footer />
+      </div>
     </> 
   );
 }
