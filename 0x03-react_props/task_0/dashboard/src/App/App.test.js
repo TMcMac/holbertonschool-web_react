@@ -6,5 +6,5 @@ import App from "./App/App";
 describe("App components", () => {
   it("renders the App without crashing", () => {
     shallow(<App />);
-  });
-    
+  })
+})
