@@ -1,1 +1,1 @@
-# React and WebDev projects for Holberton
+Tasks for learning Fullstack with React
