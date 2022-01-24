@@ -1,1 +1,1 @@
-# 0x01. Webpack
+# React and WebDev projects for Holberton
